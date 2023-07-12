@@ -1,4 +1,4 @@
-Whole-brain computation of cognitive versus acoustic errors in music: A mismatch negativity study
+Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition
 
 Matlab and R leading scripts for the paper entitled: "Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition", soon available on BiorXiv (2023): Bonetti, L., Fernández Rubio, G., Lumaca, M., Carlomagno, F., Risgaard Olsen, E., Criscuolo, A., Kotz, S.A., Vuust, P., Brattico, E., & Kringelbach, M.L.
 
