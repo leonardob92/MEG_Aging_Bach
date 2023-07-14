@@ -1,8 +1,8 @@
 Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition
 
-Matlab and R leading scripts for the paper entitled: "Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition", soon available on BiorXiv (2023): Bonetti, L., Fernández Rubio, G., Lumaca, M., Carlomagno, F., Risgaard Olsen, E., Criscuolo, A., Kotz, S.A., Vuust, P., Brattico, E., & Kringelbach, M.L.
+Matlab and R leading scripts for the paper entitled: "Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition", available on BiorXiv (2023): Bonetti, L., Fernández Rubio, G., Lumaca, M., Carlomagno, F., Risgaard Olsen, E., Criscuolo, A., Kotz, S.A., Vuust, P., Brattico, E., & Kringelbach, M.L.
 
-BIORXIV LINK TO BE UPLOADED
+https://www.biorxiv.org/content/10.1101/2023.07.13.548815v1
 
 Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
 
