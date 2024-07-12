@@ -1,6 +1,6 @@
 Age-related neural changes underlying long-term recognition of musical sequences
 
-Matlab and R leading scripts for the paper entitled: "Challenging age-related decline in brain function: Evidence from fast neuroimaging of musical sequence recognition", published in (Nature's) Communications Biology (2024): Bonetti, L., Fernández Rubio, G., Lumaca, M., Carlomagno, F., Risgaard Olsen, E., Criscuolo, A., Kotz, S.A., Vuust, P., Brattico, E., & Kringelbach, M.L.
+Matlab and R leading scripts for the paper entitled: "Age-related neural changes underlying long-term recognition of musical sequences", published in (Nature's) Communications Biology (2024): Bonetti, L., Fernández Rubio, G., Lumaca, M., Carlomagno, F., Risgaard Olsen, E., Criscuolo, A., Kotz, S.A., Vuust, P., Brattico, E., & Kringelbach, M.L.
 
 LINK NOT YET AVAILABLE
 
